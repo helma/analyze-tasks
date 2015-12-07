@@ -1,0 +1,237 @@
+make mail commads unix like: programming, workflow
+mail compose/reply/forward:  programming, workflow
+highlight current mail in index:  programming, workflow
+mail fix message ids:  programming, workflow
+store sent mail:  programming, workflow
+mail cc testen (andreas heike):  programming, workflow
+mail interface:  programming, workflow
+mail remove tmpfiles: programming, workflow
+irb autoload: programming, workflow
+avoid nameclashes for mail methods: programming, workflow
+move plan to task: programming, workflow
+implement task management: programming, workflow
+switch from projects to tasks: programming, workflow
+mail search: programming, workflow
+mail reply in show: programming, workflow
+send email with save: programming, workflow
+mail with attachments: programming, workflow
+tags, dependencies, subproject, priorities,... for tasks: programming, workflow
+fix missing subjects (titles): programming, workflow
+run actions in background: programming, workflow
+fix mails with nested attachments:  programming, workflow
+display html only emails eg INBOX 27391:  programming, workflow
+validation service: programming, server
+multiple arguments: programming, services
+cleanup/hide tasks: programming, workflow
+merge changes into development: programming, repositories
+policies anlegen: programming, a+a, server
+stable ToxCreate version until Feb 4: programming, gui, services
+fix filering rules for error emails: programming, workflow
+save opentox-install to github: programming, repositories, installation
+updatedb/ldconfig nach openbabel install: programming, installation
+deploy to ot-dev: programming, repositories
+pw2yaml: programming, workflow
+automount usb stick: workflow, programming
+pw/login management: workflow, programming
+push fim to github: programming
+open files from browser: programming, workflow
+remove dforms: programming, workflow
+protect confidential data: programming, workflow
+micha+martin mergen: programming, repositories
+alte backups loeschen (vz, desktop): server, programming
+clean server: server, programming
+markup language: programming, workflow
+check if ToxPredict works with new validation service: programming, gui
+check new backups: server, programming
+stop button for toxcreate: programming, gui
+tests for external services: programming, test
+martin mergen: programming, repositories
+fix datamapper mysql problem: programming, debug
+new version to github: programming, repositories
+config files to installation: programming, repositories, installation
+test installation script: programming, test, installation
+toxcreate error when validation fails: programming, debug
+fix reply to mailinglists (multiple recipieants?): programming, workflow
+add ohm to dependencies: programming, repositories, wrapper
+uids for email messages: programming, workflow
+zsh custom tab completion: programming, workflow
+toxcreate stress tests: test, programming
+validation with multiple values: test, programming, services
+serialize error report: programming, services
+add autostart redis: programming, services
+pull opentox-install: programming, repositories, installation
+publish documentation: documentation, programming
+test installation script: test, programming, installation
+development branches for opentox-install and opentox-test: programming, repositories, installation
+remove release branches from github: programming, repositories
+github hooks for rdoc.info: programming, debug, info
+fix READMEs: programming, documentation
+installation for master/tags: programming, installation, server
+release services and install/test: programming, repositories, installation
+run tests for new installation: programming, test, installation
+test/fix master installation: programming, test, repositories, installation
+export work environment: programming, workflow
+README formatting for yardoc: programming, documentation
+regression datasets not detected: programming, debug, services
+reactivate progress bar, stop button: programming, debug, gui
+yaml von validation service: programming, debug, gui
+msh to github: programming, workflow
+fix issues reported by vedrin: programming, debug
+process GitHub bug reports and feature requests: debug, programming
+fix predict layout: gui, programming, debug
+update script for installation: programming, installation
+create master toxcreate vm: server, programming, test
+deploy master toxcreate vm to ot-test/toxcreate: server, programming, repositories
+regression summary: programming, gui
+udev rules for ot cf backup (vendor??): programming, workflow
+andis kekule experimente ansehen: programming, debug
+vm f micha: server, programming
+integrate dropbox, google docs etc: programming, workflow
+fix toxcreate issues: debug, programming
+fix prediction for SMILES: debug, programming
+substitute ot:isA with rdf:type: programming, rdf
+ambit links for Training dataset in toxcreate: programming, gui
+test modellerstellung with ambit dataset: test, programming
+upload ambit dataset in toxcreate: programming, gui, rdf
+adjust ot tests for new settings: test, programming
+select dataset/endpoint from existing dataset (through ontology service): gui, programming, rdf
+fix neighbor pagination: programming, gui
+toxcreate tests for external datasets: test, programming
+sunrise stick fixen: workflow, programming
+finance tracker umstellen: workflow, programming
+pipe view to less: programming, workflow
+cannot allocate memory problem with multi-cell-call: programming, debug
+fix lazar: debug, programming
+toxcreate2 kopieren: server, programming
+autoorders f oekovision: programming, workflow
+pay bills (SWITCH etc): ueberweisung, admin
+read http://zenhabits.net/start/: info, workflow, admin
+SWDT meeting 11.00: conference, admin
+process inboxes: planning, admin
+move read inbox messages to archive: mail, admin
+oecd report: write, report, admin
+process inboxes: planning, admin
+handle delegation: delegate, admin
+process untagged tasks: planning, admin
+sunrise umstellen: infrastructure, admin
+buchhaltung wg micha fragen: delegate, admin
+geld auf schweizer konto ueberweisen: ueberweisung, admin
+fix api 1.2 page: write, report, documentation, admin
+flug nach gb: travel, info, ueberweisung, admin
+ToxBank KO Meeting 14.00-17.00: conference, admin
+SWDT meeting 11.00: conference, admin
+tobi anrufen: delegate, admin
+schluessel an tobi, tel nr heike: delegate, admin
+ToxBank KO Meeting 14.30-17.00: conference, admin
+background included: project-management, admin
+micha anstellung - bruttolohn: info, personnel, admin
+pomodoro technique: workflow, info, admin
+reply to pending emails: mail, admin
+kurzzeitwecker: workflow, admin
+manuscript review: review, admin
+OpenTox Executive Meeting: Thursday Jan 27, 14.00 - 15.30 CET: conference, admin
+SWDT meeting 11.00: conference, admin
+update google ist calender: project-management, admin
+reply to superservices: mail, planning, info, design, admin
+answer postponed mails: mail, admin
+denis vertrag verlaengern: personnel, admin
+pomodoro/training timer: workflow, admin
+SWDT meeting 11.00: conference, admin
+update calendar: project-management, admin
+ex u-tox meeting: social, admin
+treffen muenchen aw: mail, travel, project-management, admin
+anstellungen (micha+me): personnel, admin
+flug/unterkunft portugal: travel, admin
+DAWG Virtual meeting 14.00: conference, admin
+DAWG Virtual meeting 14.00: conference, admin
+zimmer suchen (eva,christine,rahel,goldi,...): travel, admin
+sensitiv final report: report, admin
+whi is who form: report, project-management, admin
+wg zimmer anrufen: travel, admin
+micha seurat registration: personnel, delegate, admin
+egon aw: mail, info, project-management, admin
+buchhalterin wg wegfahren, arztrechnungen, ...: delegate, mail, admin
+answer pending mails: mail, admin
+modnanotox dow: project-management, admin
+gehalt in chf zahlen/anlegen: ueberweisung, info, admin
+rechnungen zahlen: ueberweisung, admin
+learn to rest/pomodoro stuff: workflow, info, admin
+uba vortrag vorbereiten: presentations, write, admin
+uba besprechung Mittwoch vormittag 10- 12: conference, admin
+SWDT meeting 11.00: conference, admin
+14.00 - 15.30 CET RAG VM 1: conference, admin
+cf kartenleser: info, infrastructure, admin
+opentox project meeting 13.00 - 15.30 CET: conference, admin
+SWDT meeting 11.00: conference, admin
+rhodes meeting report: report, admin
+check micha anstellung: delegate, personnel, admin
+wilde wg micha anstellung: delegate, personnel, admin
+opentox project meeting 11.00 - 13.30 CET: conference, admin
+opensso nameserver umschalten 10.00: server, admin
+update google calendar: project-management, admin
+unterlagen/rechnungen an wilde: delegate, admin
+muenchen absagen: mail, travel, admin
+Mwst Erklaerung: gmbh, admin
+Kickoff meeting Cascais Portugal: conference, admin
+strategie f arbeitsreduction: workflow, admin
+vet email aw: gmbh, mail, admin
+micha arbeitsvertrag: gmbh, personnel, admin
+SWDT meeting 11.00: conference, admin
+tobi kuendigung unterschreiben: personnel, admin
+neues ot release ankuendigen pro+opentox: mail, write, report, admin
+SWDT meeting 11.00: conference, admin
+toxbank vm 15.00-17.00: conference, admin
+review: review, write, admin
+ask EU validation service about ot status: project-management, admin
+sd card, usb sticks: infrastructure, info, admin
+Abgabetermin Thema Bachelorarbeit durch die Firmenbetreuer: personnel, admin
+oli wg CEO: personnel, delegate, admin
+edit m30 report: report, admin
+edit toxbank google doc: report, project-management, admin
+pending emails: mail, admin
+OpenTox progress report: report, admin
+arrange sensitiv audit: project-management, admin
+SWDT meeting 11.00: conference, admin
+handy akku: infrastructure, admin
+sensitiv excel templates for toxbank: info, mail, planning, design, admin
+pending: mail, admin
+chf 5000 +lebenshaltung auf schweizer konto ueberweisen: ueberweisung, admin
+ask sensitiv for dose-response curves: design, mail, admin
+geld f steuer etc ueberweisen: ueberweisung, admin
+micha gehalt 45000/12 ueberweisen: ueberweisung, personnel, admin
+ToxBank TAG 15.00: conference, admin
+AXLR8 report: report, admin
+reenter Toxbank TAG meetings: project-management, planning, admin
+credit europe konto raeumen: ueberweisung, admin
+SWDT meeting 11.00: conference, admin
+neue anlage: info, admin
+steuer zahlen: ueberweisung, admin
+SWDT meeting 11.00: conference, admin
+Modnanotox consortium agreement: project-management, admin
+RAG meeting 15.30: conference, admin
+budgets nachrechnen: project-management, planning, admin
+seurat book chapter: report, write, paper, admin
+ToxBank 14.00: conference, admin
+DAWG meeting 14.00 - 15.00: conference, admin
+uba-fruaenhofer rechnung an berenika: project-management, admin
+toxbank CA: project-management, admin
+mietwagen buchen: travel, admin
+kletterfuehrer/gebiete: info, travel, admin
+nina aw wg quality tag: mail, design, admin
+micha ahv, etc: personnel, admin
+david wg stundenliste: personnel, admin
+vacation message: config, infrastructure, admin
+schwer anrufen 0761/203-4349 schwer@verwaltung.uni-freiburg.de: project-management, admin
+unterkunft: travel, admin
+martin wg neuen services fragen: mail, delegate, admin
+packen: travel, admin
+kletterfuehrer offline: travel, admin
+flug england booking reference 46AMMM 8.50: travel, admin
+zimmer besorgen: travel, admin
+fahrt nach llogborough: travel, admin
+DAWG 14.00: conference, admin
+todo liste f micha: delegate, personnel, mail, admin
+micha plan: delegate, personnel, mail, admin
+denis aw: delegate, personnel, mail, admin
+mail wg multiple InchIs for Ambit, classification conversion: info, mail, planning, admin
+nina aw wg quality tag: mail, design, debug, admin

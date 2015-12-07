@@ -1,0 +1,106 @@
+make mail commads unix like: programming, workflow
+mail compose/reply/forward:  programming, workflow
+highlight current mail in index:  programming, workflow
+mail fix message ids:  programming, workflow
+store sent mail:  programming, workflow
+mail cc testen (andreas heike):  programming, workflow
+mail interface:  programming, workflow
+mail remove tmpfiles: programming, workflow
+irb autoload: programming, workflow
+avoid nameclashes for mail methods: programming, workflow
+move plan to task: programming, workflow
+implement task management: programming, workflow
+switch from projects to tasks: programming, workflow
+mail search: programming, workflow
+mail reply in show: programming, workflow
+send email with save: programming, workflow
+mail with attachments: programming, workflow
+tags, dependencies, subproject, priorities,... for tasks: programming, workflow
+fix missing subjects (titles): programming, workflow
+run actions in background: programming, workflow
+fix mails with nested attachments:  programming, workflow
+display html only emails eg INBOX 27391:  programming, workflow
+validation service: programming, server
+multiple arguments: programming, services
+cleanup/hide tasks: programming, workflow
+merge changes into development: programming, repositories
+policies anlegen: programming, a+a, server
+stable ToxCreate version until Feb 4: programming, gui, services
+fix filering rules for error emails: programming, workflow
+save opentox-install to github: programming, repositories, installation
+updatedb/ldconfig nach openbabel install: programming, installation
+deploy to ot-dev: programming, repositories
+pw2yaml: programming, workflow
+automount usb stick: workflow, programming
+pw/login management: workflow, programming
+push fim to github: programming
+open files from browser: programming, workflow
+remove dforms: programming, workflow
+protect confidential data: programming, workflow
+micha+martin mergen: programming, repositories
+alte backups loeschen (vz, desktop): server, programming
+clean server: server, programming
+markup language: programming, workflow
+check if ToxPredict works with new validation service: programming, gui
+check new backups: server, programming
+stop button for toxcreate: programming, gui
+tests for external services: programming, test
+martin mergen: programming, repositories
+fix datamapper mysql problem: programming, debug
+new version to github: programming, repositories
+config files to installation: programming, repositories, installation
+test installation script: programming, test, installation
+toxcreate error when validation fails: programming, debug
+fix reply to mailinglists (multiple recipieants?): programming, workflow
+add ohm to dependencies: programming, repositories, wrapper
+uids for email messages: programming, workflow
+zsh custom tab completion: programming, workflow
+toxcreate stress tests: test, programming
+validation with multiple values: test, programming, services
+serialize error report: programming, services
+add autostart redis: programming, services
+pull opentox-install: programming, repositories, installation
+publish documentation: documentation, programming
+test installation script: test, programming, installation
+development branches for opentox-install and opentox-test: programming, repositories, installation
+remove release branches from github: programming, repositories
+github hooks for rdoc.info: programming, debug, info
+fix READMEs: programming, documentation
+installation for master/tags: programming, installation, server
+release services and install/test: programming, repositories, installation
+run tests for new installation: programming, test, installation
+test/fix master installation: programming, test, repositories, installation
+export work environment: programming, workflow
+README formatting for yardoc: programming, documentation
+regression datasets not detected: programming, debug, services
+reactivate progress bar, stop button: programming, debug, gui
+yaml von validation service: programming, debug, gui
+msh to github: programming, workflow
+fix issues reported by vedrin: programming, debug
+process GitHub bug reports and feature requests: debug, programming
+fix predict layout: gui, programming, debug
+update script for installation: programming, installation
+create master toxcreate vm: server, programming, test
+deploy master toxcreate vm to ot-test/toxcreate: server, programming, repositories
+regression summary: programming, gui
+udev rules for ot cf backup (vendor??): programming, workflow
+andis kekule experimente ansehen: programming, debug
+vm f micha: server, programming
+integrate dropbox, google docs etc: programming, workflow
+fix toxcreate issues: debug, programming
+fix prediction for SMILES: debug, programming
+substitute ot:isA with rdf:type: programming, rdf
+ambit links for Training dataset in toxcreate: programming, gui
+test modellerstellung with ambit dataset: test, programming
+upload ambit dataset in toxcreate: programming, gui, rdf
+adjust ot tests for new settings: test, programming
+select dataset/endpoint from existing dataset (through ontology service): gui, programming, rdf
+fix neighbor pagination: programming, gui
+toxcreate tests for external datasets: test, programming
+sunrise stick fixen: workflow, programming
+finance tracker umstellen: workflow, programming
+pipe view to less: programming, workflow
+cannot allocate memory problem with multi-cell-call: programming, debug
+fix lazar: debug, programming
+toxcreate2 kopieren: server, programming
+autoorders f oekovision: programming, workflow
